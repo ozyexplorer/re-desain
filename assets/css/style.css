@@ -162,6 +162,18 @@ ul, ol {
     background-attachment: fixed;
 }
 
+.bg-header {
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
 .bg-img .overlay {
     position: absolute;
     left: 0;
@@ -172,6 +184,21 @@ ul, ol {
     background: #12aa8f;
 }
 
+.bg-header .overlay {
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    opacity: .8;
+}
+
+.more {
+    padding: 10px 30px;
+    color: #1eb3bd;
+    background: white;
+    font-weight: bold;
+}
 
 /* --  section header  -- */
 
