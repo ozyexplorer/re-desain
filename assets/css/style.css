@@ -1774,3 +1774,24 @@ header {
 #sellution {
     background-color: #67c1fd;
 }
+
+#line {
+    background: white;
+    padding: 20px;
+}
+
+#activity {
+    background-color: #11c792;
+}
+
+#founder {
+    background-color: #1eb3bd;
+}
+
+.blog {
+    margin-top: 70px;
+}
+
+.btn {
+    border-radius: 20px;
+}
